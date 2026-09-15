@@ -1,0 +1,10 @@
+# --- PDF Extraction & Parsing ---
+pdfplumber==0.10.4
+pdfminer.six==20221105
+pillow==11.3.0
+
+# --- Core RAG & Foundational SDK ---
+foundry-local-sdk
+
+# --- Database & Search (python standard library) ---
+# sqlite3, json, math, re, os 

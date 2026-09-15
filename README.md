@@ -184,19 +184,23 @@ local-rag-project/
 * **`requirements.txt`:** Specifies external Python dependencies (`foundry-local-sdk`, `pdfplumber`).
 * **`.gitignore`:** Prevents local database files (`*.db`), virtual environments, and caches from being committed to source control.
 * **`README.md`:** System architecture, setup instructions, and design trade-offs documentation.
-
 ---
-📚 References & Resources
-The technical architecture and local execution workflow of this project were built following the official Microsoft Learn documentation and technical guides:
 
-📖 Microsoft Learn - Foundry Local Overview & Get Started — Official guide on setting up the Microsoft Foundry Local runtime, hardware acceleration, and SDK architecture.
+## 📚 References & Resources
 
-🛠️ Tutorial: Build a RAG Application with Foundry Local — Step-by-step tutorial on building local Retrieval-Augmented Generation workflows on Windows.
+The technical design, local execution workflow, and SDK implementation of this project are based on the official Microsoft documentation and technical guides:
 
-💬 Tutorial: Build a Multi-Turn Chat Assistant with Foundry Local — Guide on building stateful conversational Python applications using local models.
+* 📖 [**Microsoft Learn — Get Started with Foundry Local**](https://learn.microsoft.com/tr-tr/windows/ai/foundry-local/get-started)  
+  *Official guide covering runtime installation, hardware acceleration settings, and local environment setup.*
 
-🚀 Building Your First Local RAG Application with Foundry Local — Deep-dive technical blog post from Microsoft Tech Community on local embedding strategies and on-device LLM inference.
+* 🛠️ [**Tutorial: Build a RAG Application with Foundry Local**](https://learn.microsoft.com/en-us/azure/foundry-local/tutorials/tutorial-build-rag-app?tabs=windows)  
+  *Step-by-step tutorial on implementing Retrieval-Augmented Generation workflows using Foundry Local on Windows.*
 
+* 💬 [**Tutorial: Build a Multi-Turn Chat Assistant with Foundry Local**](https://learn.microsoft.com/en-us/azure/foundry-local/tutorials/tutorial-build-chat-assistant?tabs=windows&pivots=programming-language-python)  
+  *Official Python guide for managing conversational state and multi-turn context with local chat models.*
+
+* 🚀 [**Building Your First Local RAG Application with Foundry Local**](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/building-your-first-local-rag-application-with-foundry-local/4501968)  
+  *In-depth architectural article exploring on-device embedding generation, model caching strategies, and local LLM inference.*
 ---
 ## ⚠️ Disclaimer
 

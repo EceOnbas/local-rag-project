@@ -186,7 +186,18 @@ local-rag-project/
 * **`README.md`:** System architecture, setup instructions, and design trade-offs documentation.
 
 ---
+📚 References & Resources
+The technical architecture and local execution workflow of this project were built following the official Microsoft Learn documentation and technical guides:
 
+📖 Microsoft Learn - Foundry Local Overview & Get Started — Official guide on setting up the Microsoft Foundry Local runtime, hardware acceleration, and SDK architecture.
+
+🛠️ Tutorial: Build a RAG Application with Foundry Local — Step-by-step tutorial on building local Retrieval-Augmented Generation workflows on Windows.
+
+💬 Tutorial: Build a Multi-Turn Chat Assistant with Foundry Local — Guide on building stateful conversational Python applications using local models.
+
+🚀 Building Your First Local RAG Application with Foundry Local — Deep-dive technical blog post from Microsoft Tech Community on local embedding strategies and on-device LLM inference.
+
+---
 ## ⚠️ Disclaimer
 
 This project is developed independently as a non-commercial, personal student project.

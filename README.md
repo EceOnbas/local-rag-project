@@ -2,7 +2,7 @@
 
 A fully offline, privacy-first Retrieval-Augmented Generation (RAG) assistant designed to answer academic syllabus queries with strict adherence to source documents and verified page citations.
 
-[![Watch the Demo]](https://youtu.be/qUy3_iyXVEE)
+[[Watch the Demo]](https://youtu.be/qUy3_iyXVEE)
 *Click the link to watch the live video demo.*
 ---
 

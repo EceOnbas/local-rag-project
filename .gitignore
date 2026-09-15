@@ -1,0 +1,17 @@
+# --- Python Precompiled Files ---
+__pycache__/
+*.py[cod]
+
+# --- Virtual Environment ---
+# Ekran görüntünüzdeki sanal çevre klasörü
+venv/
+
+# --- Local SQLite Database ---
+# ingestation.py çalıştığında otomatik oluşan veritabanı
+rag_database.db
+
+# --- Environment & OS Files ---
+pyvenv.cfg
+.vscode/
+.DS_Store
+Thumbs.db
